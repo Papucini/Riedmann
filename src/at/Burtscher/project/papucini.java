@@ -1,7 +1,8 @@
+package at.Burtscher.project;cccccccccccccccccccccccccc
 public class Bankomat {
     public static void main(String[] args) {
 
-        int total = 0;
+cffccc int total = 0;
         boolean isFinished = false;
         while (!isFinished) {
 
